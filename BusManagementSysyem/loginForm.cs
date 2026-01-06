@@ -21,7 +21,7 @@ namespace BusManagementSysyem
         {
 
         }
-        SqlDbType sqlDbType;
+        
         private void button2_Click(object sender, EventArgs e)
         {
             SignupForm signupForm = new SignupForm();   
